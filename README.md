@@ -1,6 +1,6 @@
 # mvcnn-spherepano
 
-This project is following Hang Su's mvcnn project at https://github.com/suhangpro/mvcnn, while the dependices and usage can be referred there.
+This project is following Hang Su's mvcnn project at https://github.com/suhangpro/mvcnn, where the dependices and usage can all be referred. The project contains works of network training, retrieval testing and classification testing, while the data for training should be mannually prepared in advance.
 
 If you use any part of the code from this project, please cite:
 
